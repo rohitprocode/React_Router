@@ -1,0 +1,20 @@
+.App{
+  margin: auto;
+  height: 100vh;
+  text-align: center;
+ 
+  font-size: large;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+a:hover{
+color: red;
+}
